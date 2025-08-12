@@ -2,8 +2,8 @@
 Data analysis project for identifying restaurant trends and insights using visual exploration.
 
 ## 📌 Project Overview
-This project focuses on analyzing restaurant data to help a **restaurant consolidator** revamp its B2C platform using intelligent automation techniques.  
-The main objective is to explore restaurant trends, understand customer preferences, and identify high-performing restaurants through data analysis and visualization.
+- This project focuses on analyzing restaurant data to help a **restaurant consolidator** revamp its B2C platform using intelligent automation techniques.  
+- The main objective is to explore restaurant trends, understand customer preferences, and identify high-performing restaurants through data analysis and visualization.
 
 ---
 
@@ -29,13 +29,13 @@ To achieve this, the dataset needs to be explored to extract meaningful insights
 ### 1. 📋 Data Import & Cleaning
 
 #### Importing necessary libraries and loading dataset
-![Importing Libraries & Loading Data](marketing_screenshots/import_dataset.png)
+![Importing Libraries & Loading Data](marketing_screenshots/import_dataset.jpg)
 
 #### Understanding data structure, cleaning variable names, and handling missing values
-![Structure & Cleaning](marketing_screenshots/structure_cleaning.png)
+![Structure & Cleaning](marketing_screenshots/structure_cleaning.jpg)
 
 #### Part of handling missing values
-![Handling Missing Values](marketing_screenshots/handling_missing_values.png)
+![Handling Missing Values](marketing_screenshots/handling_missing_values.jpg)
 
 ---
 
@@ -43,15 +43,15 @@ To achieve this, the dataset needs to be explored to extract meaningful insights
 
 #### Distribution of Ratings  
 Histogram with KDE and boxplot to understand the spread of ratings.
-![Ratings Distribution](marketing_screenshots/ratings_distribution.png)
+![Ratings Distribution](marketing_screenshots/ratings_distribution.jpg)
 
 #### Relationship between Aggregate Ratings and Number of Cuisines  
 Boxplot showing how the number of cuisines influences ratings.
-![Ratings vs Cuisines](marketing_screenshots/ratings_vs_cuisines.png)
+![Ratings vs Cuisines](marketing_screenshots/ratings_vs_cuisines.jpg)
 
 #### Ratio of Booking vs Non-Booking Restaurants  
 Pie chart comparing restaurants that allow table booking vs those that don’t.
-![Table Booking Ratio](marketing_screenshots/booking_ratio.png)
+![Table Booking Ratio](marketing_screenshots/booking_ratio.jpg)
 
 ---
 
@@ -62,7 +62,7 @@ An interactive **Tableau Dashboard** was created to:
 - Identify high-performing restaurants.
 - View cost and delivery options.
 
-![Tableau Dashboard](marketing_screenshots/tableau_dashboard.png)
+![Tableau Dashboard](marketing_screenshots/tableau_dashboard.jpg)
 
 ---
 
