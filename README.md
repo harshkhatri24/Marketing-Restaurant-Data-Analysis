@@ -57,20 +57,28 @@ Pie chart comparing restaurants that allow table booking vs those that don’t.
 
 ### 3. 📈 Dashboarding
 
-An interactive **Tableau Dashboard** was created to:
-- Filter and explore restaurants by city, rating, booking, and cuisine.
-- Identify high-performing restaurants.
-- View cost and delivery options.
+An interactive **Tableau Dashboard** was created with the following components:
+
+- **Key KPIs** – to provide a quick snapshot of important restaurant metrics  
+- **Restaurant Distribution** – column chart showing the number of restaurants across different cities  
+- **Table Booking Availability** – pie chart showing Yes/No distribution  
+- **Online Delivery Availability** – pie chart showing Yes/No distribution  
+- **Restaurants by Ratings & Votes** – scatter plot to visualize customer engagement vs. ratings  
+- **Cuisine Popularity** – column chart displaying the most popular cuisines  
+- **Franchise Popularity** – column chart highlighting franchises with the widest reach
 
 ![Tableau Dashboard](marketing_screenshots/tableau_dashboard.jpg)
 
 ---
 
 ## 🧠 Key Insights
-- Some cities dominate the restaurant scene while others are underrepresented.
-- Ratings tend to be higher for restaurants offering more cuisine variety.
-- Restaurants that allow table booking and delivery options tend to have better customer engagement.
-- Cost, number of cuisines, and service options influence ratings.
+
+- **City-wise Coverage:** Some cities dominate the restaurant landscape, while others have very limited presence.  
+- **Booking & Delivery Trends:** A significant portion of restaurants either allow table booking or online delivery, with noticeable differences in distribution between the two services.  
+- **Ratings & Engagement:** Restaurants with higher ratings generally have higher votes, indicating stronger customer engagement.  
+- **Cuisine Popularity:** Certain cuisines (e.g., [insert top cuisines from your analysis]) are consistently popular across cities.  
+- **Franchise Reach:** A few franchises have a strong national presence, making them prime candidates for targeted marketing and promotions.  
+- **Cost & Ratings:** Restaurants with competitive pricing and multiple cuisine offerings tend to receive better ratings.
 
 ---
 
